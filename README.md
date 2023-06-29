@@ -1,2 +1,2 @@
-# Stacja-Pogodwa-Pi
-Stacja pogodowa na Raspberry Pi 4 model B, która odczytuje i wyświetla temperaturę pomieszczenia oraz podaje dane pogodowe odczytane z prognozy pogody.
+# Weather-Station-Pi
+Weather station for Raspberry Pi 4 model B, which reads and displays the room temperature and provides weather data read from the weather forecast.
